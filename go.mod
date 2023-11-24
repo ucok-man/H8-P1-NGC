@@ -1,3 +1,3 @@
-module github.com/ucok-man/H8-NGC/PHASE_1
+module H8-P1-NGC
 
 go 1.21.4
