@@ -1,0 +1,14 @@
+CONTOH 1:
+
+StudentID  StudentName    Course            CourseInstructor
+101        John           HTML              Mrs. Ayu
+102        Jane           CSS               Mrs. Amel
+103        Mary           Basic Go          Mr. Aldi
+104        Sarah          Handling Error    Mr. Safran
+105        David          REST API          Mr. Tugas
+
+ANALISA:
+    N-1F: 
+        - Tabel diatas sudah memenuhi syarat 1NF yaitu:
+            1. Setiap data sudah tidak dapat dibagi
+            2. setiap kolom memiliki nama yang unik
